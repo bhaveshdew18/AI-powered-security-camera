@@ -1,0 +1,10 @@
+torch
+torchvision
+face_recognition
+flask
+flask-cors
+opencv-python
+openpyxl
+telepot
+numpy
+Pillow
